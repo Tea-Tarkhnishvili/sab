@@ -84,6 +84,7 @@ header {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+    background-color: rgb(255, 98, 0);
 }
 
 .main_heading {
